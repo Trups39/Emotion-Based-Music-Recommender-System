@@ -39,4 +39,4 @@ The notebook `EmotionBasedMusicRecommderSystem.ipynb` implements the music recom
 4. Run `EmotionBasedMusicRecommderSystem.ipynb` to implement the music recommender system.
    
 Feel free to explore the provided notebooks to understand the training process and the functionality of the music recommender system.
-# Emotion-Based-Music-Recommender-System
+
