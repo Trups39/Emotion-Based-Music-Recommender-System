@@ -20,6 +20,9 @@ The notebook `EmotionDetectionCNNModelTrain.ipynb` covers the training of the CN
 The notebook `EmotionDetectionResNet50V2ModelTrain.ipynb` details the training of the ResNet50V2 model.
 - Training involves processing images and achieving a Test Loss of 1.09735 and Test Accuracy of 67.37%.
 
+### Access Saved Trained Models
+You can access the saved trained models (CNN_Model.h5 and ResNet50V2Model.h5) from [this Google Drive folder](https://drive.google.com/drive/folders/1OwpdNHo1B7ctxh0e7TmbOLisyBg7l78D?usp=sharing).
+
 ## Emotion-Based Music Recommender System:
 The notebook `EmotionBasedMusicRecommderSystem.ipynb` implements the music recommender system.
 - It utilizes the trained models to detect emotions in images and recommends music based on the identified emotional context.
@@ -34,6 +37,6 @@ The notebook `EmotionBasedMusicRecommderSystem.ipynb` implements the music recom
 2. Organize the dataset into appropriate train and test directories.
 3. Execute `EmotionDetectionCNNModelTrain.ipynb` and `EmotionDetectionResNet50V2ModelTrain.ipynb` for model training.
 4. Run `EmotionBasedMusicRecommderSystem.ipynb` to implement the music recommender system.
-
+   
 Feel free to explore the provided notebooks to understand the training process and the functionality of the music recommender system.
 # Emotion-Based-Music-Recommender-System
