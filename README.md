@@ -26,6 +26,7 @@ You can access the saved trained models (CNN_Model.h5 and ResNet50V2Model.h5) fr
 ## Emotion-Based Music Recommender System:
 The notebook `EmotionBasedMusicRecommderSystem.ipynb` implements the music recommender system.
 - It utilizes the trained models to detect emotions in images and recommends music based on the identified emotional context.
+<img width="572" alt="image" src="https://github.com/user-attachments/assets/7ce15b04-8d1e-4f9d-956b-fb1b7e682ad4" />
 
 ### Functions in `EmotionBasedMusicRecommderSystem.ipynb`:
 - `recommend_songs(pred_class)`: Recommends songs based on the predicted emotion class.
